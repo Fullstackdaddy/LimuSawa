@@ -1,2 +1,1 @@
-# Limusawa
-Brainstorming Files for LimuSawa Project
+This folder contains preliminary files for the LimuSawa project. LimuSawa is a small but powerful event-posting web application written in PHP, SQL, and JS. The programming techniques employed in this project are derived from the seminal works of Larry Ullman and Jon Duckett, two of the finest minds in PHP and SQL in this lifetime.
